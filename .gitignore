@@ -9,3 +9,6 @@ venv/
 
 # Setting dev
 app/app/settings_local.py
+
+# Default database
+app/db.sqlite3
