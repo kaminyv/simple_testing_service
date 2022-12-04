@@ -1,0 +1,11 @@
+# IDEA
+.idea/
+
+# VSCode
+.code/
+
+# Virtual environment
+venv/
+
+# Setting dev
+app/app/settings_local.py
